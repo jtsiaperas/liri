@@ -1,0 +1,27 @@
+
+movie-this the mask 
+Title: The Mask
+Released: 29 Jul 1994
+Internet Movie Database rating: 6.9/10
+Rotten Tomatoes rating: 77%
+Produced in: USA
+Language: English, Swedish
+Plot: Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.
+Actors: Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+movie-this the lord of the rings return of the king 
+Title: National Geographic: Beyond the Movie - The Lord of the Rings: Return of the King
+Released: 12 Dec 2003
+Internet Movie Database rating: 6.3/10
+Produced in: USA
+Language: English
+Plot: N/A
+Actors: John Rhys-Davies, Elijah Wood, Hugo Weaving, Peter Jackson
+movie-this lord of the flies 
+Title: Lord of the Flies
+Released: 16 Mar 1990
+Internet Movie Database rating: 6.4/10
+Rotten Tomatoes rating: 63%
+Produced in: USA
+Language: English
+Plot: Stranded on an island, a group of schoolboys degenerate into savagery.
+Actors: Balthazar Getty, Chris Furrh, Danuel Pipoly, James Badge Dale
