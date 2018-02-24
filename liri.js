@@ -32,12 +32,22 @@ function main(command,input){ //designed for recursion, specifically for do-what
     break;
 
     case "spotify-this-song":
-        spotifyThisSong(input);
+        if(input != "")
+        {	
+            spotifyThisSong(input);
+        }
+        else
+        	spotifyThisSong();
     break;
 
     case "movie-this":
-        getMovie(input);
+         if(input != "")
+        {
+            getMovie(input);
+        }
 
+        else
+        	getMovie();
     break;
 
     case "do-what-it-says":
